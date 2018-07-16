@@ -10,6 +10,11 @@ namespace DICOM_Communication_101
     {
         static void Main(string[] args)
         {
+            CEchoTutorial.Run();
+            //CFindTutorial.Run();
+            //CMoveTutorial1.Run();
+            //CMoveTutorial2.Run();
+            //CStoreTutorial.Run();
         }
     }
 }
